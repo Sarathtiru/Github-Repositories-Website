@@ -37,7 +37,16 @@
   color: white;
 }
 
-.toolbar__navigation p{
-    color: red;
-    padding-left: 50px;
+.toolbar__navigation p {
+  color: red;
+  padding-left: 50px;
+}
+
+@media (max-width: 420px) {
+  .toolbar__navigation p {
+    display: none;
+  }
+  .toolbar {
+    position: fixed;
+  }
 }

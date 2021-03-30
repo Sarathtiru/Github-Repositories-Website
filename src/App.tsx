@@ -70,19 +70,10 @@ const App: React.FC = () => {
     setpageNum(1);
     setitemCount(0);
   };
-  // let pages=<hr/>;
-  // for (let i = 1; i < totalPages; i++) {
-  //   pages =  pages <button>{i}</button>;
-  // }
 
   const PageDecrementHandler = (e: React.MouseEvent) => {
-    // if (Number(e.currentTarget.textContent) === pageNum - 1) {
     setitemCount(itemCount - 5);
     setpageNum(pageNum - 1);
-    // } else if (Number(e.currentTarget.textContent) === pageNum + 1) {
-    //   setitemCount(itemCount + 5);
-    //   setpageNum(pageNum + 1);
-    // }
   };
 
   const pageIncremnentHandler = (e: React.MouseEvent) => {
