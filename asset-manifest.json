@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Github-Repositories-Website/static/css/main.20d1decc.chunk.css",
-    "main.js": "/Github-Repositories-Website/static/js/main.e0f241a1.chunk.js",
-    "main.js.map": "/Github-Repositories-Website/static/js/main.e0f241a1.chunk.js.map",
+    "main.css": "/Github-Repositories-Website/static/css/main.bc56cb8e.chunk.css",
+    "main.js": "/Github-Repositories-Website/static/js/main.dcfb2f4f.chunk.js",
+    "main.js.map": "/Github-Repositories-Website/static/js/main.dcfb2f4f.chunk.js.map",
     "runtime-main.js": "/Github-Repositories-Website/static/js/runtime-main.962b36e6.js",
     "runtime-main.js.map": "/Github-Repositories-Website/static/js/runtime-main.962b36e6.js.map",
     "static/js/2.7aa497ff.chunk.js": "/Github-Repositories-Website/static/js/2.7aa497ff.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.09c6f9b8.chunk.js": "/Github-Repositories-Website/static/js/3.09c6f9b8.chunk.js",
     "static/js/3.09c6f9b8.chunk.js.map": "/Github-Repositories-Website/static/js/3.09c6f9b8.chunk.js.map",
     "index.html": "/Github-Repositories-Website/index.html",
-    "static/css/main.20d1decc.chunk.css.map": "/Github-Repositories-Website/static/css/main.20d1decc.chunk.css.map",
+    "static/css/main.bc56cb8e.chunk.css.map": "/Github-Repositories-Website/static/css/main.bc56cb8e.chunk.css.map",
     "static/js/2.7aa497ff.chunk.js.LICENSE.txt": "/Github-Repositories-Website/static/js/2.7aa497ff.chunk.js.LICENSE.txt",
     "static/media/Github_logo_PNG1.f4213b43.png": "/Github-Repositories-Website/static/media/Github_logo_PNG1.f4213b43.png"
   },
   "entrypoints": [
     "static/js/runtime-main.962b36e6.js",
     "static/js/2.7aa497ff.chunk.js",
-    "static/css/main.20d1decc.chunk.css",
-    "static/js/main.e0f241a1.chunk.js"
+    "static/css/main.bc56cb8e.chunk.css",
+    "static/js/main.dcfb2f4f.chunk.js"
   ]
 }
