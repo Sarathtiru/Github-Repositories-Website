@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   display: flex;
-  justify-content:center;
+  justify-content: center;
   flex-wrap: wrap;
   padding: 10px;
 }
@@ -21,8 +21,6 @@
   margin: 0;
 }
 
-
-
 .language span:hover {
   cursor: pointer;
   color: red;
@@ -34,7 +32,6 @@
 .clicked {
   color: red;
   border: 1px solid red;
-  
 }
 
 .language {
@@ -47,14 +44,13 @@
   text-align: center;
 }
 
-.prev{
+.prev {
   margin-right: 10px;
 }
 
-.next{
+.next {
   margin-left: 10px;
 }
-
 
 @media (max-width:420px){
   .language {
@@ -62,8 +58,9 @@
    flex-direction: column;
    position: relative;
    top: 40px;
-   z-index: -1;
+   
   }
+ 
   
 
 }

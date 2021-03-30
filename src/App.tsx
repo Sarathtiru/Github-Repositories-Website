@@ -66,6 +66,7 @@ const App: React.FC = () => {
       updatedState = [...updatedArray];
       return updatedState;
     });
+    console.log(e.currentTarget.textContent)
     settextContent(e.currentTarget.textContent as string);
     setpageNum(1);
     setitemCount(0);
